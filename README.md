@@ -45,19 +45,6 @@ As you might have guessed, our focus will be on the technical analysis and visua
 10.Predicting the Output
 
 11.Result visualization 
- 
-### Research Paper
-
-Project is totally based on research papers as project predict output using LSTM based deep learning models:
-
-1. https://arxiv.org/abs/2009.10819
-
-2. https://www.aclweb.org/anthology/W19-6403.pdf
-
-3. https://www.sciencedirect.com/science/article/pii/S1877050920304865
-
-### Youtube Video of this Project: https://www.youtube.com/watch?v=44u5oU9MQGg
-
 
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Ritesh Bhuyan <img src="https://github.com/ritesh3797/stock-prediction" width="30px"> ! </h1>
 <h3 align="center">I'm a Software Developer from Odisha ❤</h3>
