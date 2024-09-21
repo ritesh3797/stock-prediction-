@@ -35,12 +35,12 @@ plt.show()
 
 
 
-"""Hi WAIT WAIT !
+"""Hi EVERYONE !
 Project code is more longer with detailed description.
 
-If you want Project Code, synopsis and Report then Please mail me at vatshayan007@gmail.com
+If you want Project Code, synopsis and Report then Please mail me at riteshbhuyan379@gmail.com
 
-## Mail me at vatshayan007@gmail.com for the Project files now.
+## Mail me at riteshbhuyan379@gmail.com for the Project files now.
 """
 
 
